@@ -120,4 +120,9 @@ Conclusion
 This Weather Application is an interactive and dynamic project that leverages React.js, OpenWeatherMap API, and GeoDB Cities API to provide real-time weather updates. It serves as an excellent example of integrating third-party APIs into a React application while ensuring a seamless user experience. The project is scalable and can be enhanced with additional features in the future.
 
 #Output
+![Image](https://github.com/user-attachments/assets/96fe5d33-d502-46d3-9008-05edb9328311)
+
+![Image](https://github.com/user-attachments/assets/2d1e15a7-a11b-47b4-85f3-c1fde7f4f105)
+
+![Image](https://github.com/user-attachments/assets/0c162553-3e00-425f-a219-628fc78a3863)
 
